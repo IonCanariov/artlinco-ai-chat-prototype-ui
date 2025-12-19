@@ -1,4 +1,4 @@
-# Artlinco AI Chat — Frontend
+# Artlinco AI Chat Prototype — Frontend
 
 Frontend UI for the Artlinco internal AI chat prototype.
 
